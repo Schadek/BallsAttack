@@ -1,5 +1,5 @@
 /**************************************************************************************************************************************************************/
-private String gameTitle = "Bouncing Balls";        //Title of the game. Will adjust the title in the menus
+private String gameTitle = "Balls Attack!";        //Title of the game. Will adjust the title in the menus
 
 private int resolutionX = 1200;                     //Screen resolution along the x-axis
 private int resolutionY = 800;                      //Screen resolution along the y-axis
